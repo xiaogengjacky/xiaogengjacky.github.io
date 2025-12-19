@@ -13,13 +13,13 @@ Education
 ======
 * Ph.D in Applied Economics and Management, Dyson School, Cornell University, 2015
 * M.S. in Agricultural and Resource Economics, University of Delaware, 2010
-* M.A. in Economics, Beijing Normal University, 2005
+* M.A. in Economics, Beijing Normal University, 2008
 * B.S. in Computer Science, Biejing Normal University, 2005
 * B.A. (dual degree) in Business Administration, Beijing Normal University, 2005
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2015-2025: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
