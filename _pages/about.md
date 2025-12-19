@@ -1,56 +1,42 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jubo Yan"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Contact Information
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- **Tel:** +65-65132249
+- **Email:** yanjubo@ntu.edu.sg
+- **For emails that contain hyperlinks:** jy489@cornell.edu
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+> **A Definition by ChatGPT 4o**  
+> 🎢 Rationality? Never Heard of Her  
+> Economist studying how we *almost* make good decisions.  
+> Teaching with Stata, surviving with coffee.  
+> Occasional LaTeX therapist.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## About
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I am an assistant professor of Economics in the [School of Social Sciences](http://www.sss.ntu.edu.sg/Pages/Home.aspx) at [Nanyang Technological University](http://www.ntu.edu.sg) (NTU), Singapore. My research focuses on behavioral and experimental economics with direct implications for public policy. I study how individuals make decisions -- purchasing and selling, paying taxes, donating, responding to nudges -- and how behavioral factors such as loss aversion, projection bias, salience, and social preferences shape those choices. Recently I have been digging into belief formation and the role of behavioral factors in how people update their expectations.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Please find my [CV](https://www.dropbox.com/scl/fi/5iat2bc67irowknfu4tlk/juboyan_cv_2024mkt.pdf?rlkey=tg577wsi7zuzgrue3lxnld9jt&dl=0) or email me for more information. I appreciate your interest, but I am **not taking additional PhD students at NTU**. If you are interested in pursuing a PhD at NTU, please contact colleagues who work on behavioral and experimental topics. Also note that NTU's email server may block messages that include hyperlinks -- if you do include links, please reach me at **jy489@cornell.edu** instead.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Research and Teaching Fields
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- Artificial Intelligence and Decision Making (AI rationality, AI-assisted decision making), Human-AI collaboration and competition (human-AI interactions)
+- Behavioral Economics (behavioral bias, nudges), Experimental Economics (individual decisions, mechanism design)
+- Environmental Economics (environmental policy, non-market good evaluation, responses to disasters), Public Economics (voluntary giving, tax compliance, behavioral responses to policy)
 
-**Markdown generator**
+## Recent Works
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?** with Zebang Deng, Rosemarie Nagel, and Tong Zhang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303), 2025.
+2. **Does Democratic Decision-making Process Enhance Cooperation Among Children and Adolescents? A Large-scale Lab-in-the-field Experiment with Students** with Yexin Zhou and Siwei Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4971880), 2024. (R&R at *Journal of Economic Behavior & Organization*.)
+3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@ntu.edu.sg to request a copy.
+4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy** with Zhi Li and Yun Wang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988), 2022.
+5. **A Subtle Pronoun Shift Reduces Loss Aversion** with Tai-sen He and Yupeng Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320), 2020.
+6. **Making Social Cost Salient: A Natural Field Experiment** with Fuhai Hong and Yohanes E. Riyanto. 2021. Email yanjubo@ntu.edu.sg to request a copy. (R&R at *Journal of Economic Behavior & Organization*.)
+7. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
