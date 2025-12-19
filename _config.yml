@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jubo Yan"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Assistant Professor of Economics at Nanyang Technological University (NTU)."
-  location         : "Singapore"
-  employer         : "Nanyang Technological University (NTU)"
+  bio              : "Associate Professor, Lingnan College, Sun Yat-sen University"
+  location         : "Guangzhou, China"
+  employer         : "Sun Yat-sen University"
   uri              : https://xiaogengjacky.github.io
-  email            : "yanjubo@ntu.edu.sg" 
+  email            : "yanjubo@mail.sysu.edu.cn"
 
   # Academic websites
   academia         : # URL
