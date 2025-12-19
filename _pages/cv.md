@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Economics and Management, Dyson School, Cornell University, 2015
+* M.S. in Agricultural and Resource Economics, University of Delaware, 2010
+* M.A. in Economics, Beijing Normal University, 2005
+* B.S. in Computer Science, Biejing Normal University, 2005
+* B.A. (dual degree) in Business Administration, Beijing Normal University, 2005
 
 Work experience
 ======
