@@ -85,10 +85,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  economics-business:
-    title: 'Economics & Business'
-  interdisciplinary:
-    title: 'Interdisciplinary'
+  behavioral-experimental-econ:
+    title: 'Behavioral and Experimental Economics'
+  applied-microeconomics:
+    title: 'Applied Microeconomics'
+  environmental-energy-econ:
+    title: 'Environmental and Energy Economics'
+  conference-papers:
+    title: 'Conference Papers'
+  book-chapters:
+    title: 'Book Chapters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -1,7 +1,7 @@
 ---
 title: "Incentive Mechanisms, Loan Decisions and Policy Rationing: A Framed Field Experiment on Rural Credit"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2016-incentive-mechanisms-rural-credit
 date: 2016-01-01
 venue: 'Agricultural Finance Review'

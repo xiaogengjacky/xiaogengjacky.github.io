@@ -1,7 +1,7 @@
 ---
 title: "Appeals to Social Norms and Taxpayer Compliance"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2019-appeals-social-norms-taxpayer-compliance
 date: 2019-01-02
 venue: 'Southern Economic Journal'

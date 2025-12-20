@@ -1,7 +1,7 @@
 ---
 title: "Nudging Charitable Giving: Three Field Experiments"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2017-nudging-charitable-giving
 date: 2017-01-02
 venue: 'Journal of Behavioral and Experimental Economics'

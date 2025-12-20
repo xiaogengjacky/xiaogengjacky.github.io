@@ -1,7 +1,7 @@
 ---
 title: "Linking Ecosystem Services and Subjective Well-being in Rapidly Urbanizing Watersheds: Insights from a Multilevel Linear Model"
 collection: publications
-category: interdisciplinary
+category: environmental-energy-econ
 permalink: /publication/2020-linking-ecosystem-services
 date: 2020-01-01
 venue: 'Ecosystem Services'

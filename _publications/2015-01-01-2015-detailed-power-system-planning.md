@@ -1,7 +1,7 @@
 ---
 title: "A Detailed Power System Planning Model: Estimating the Long-Run Impact of Carbon-Reducing Policies"
 collection: publications
-category: interdisciplinary
+category: conference-papers
 permalink: /publication/2015-detailed-power-system-planning
 date: 2015-01-01
 venue: '48th Hawaii International Conference on System Science (HICSS)'

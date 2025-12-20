@@ -1,7 +1,7 @@
 ---
 title: "Genetic Distance and Intra-national Variation in Preferences and Behaviors"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2022-genetic-distance-preferences
 date: 2022-01-01
 venue: 'Journal of Asian Economics'

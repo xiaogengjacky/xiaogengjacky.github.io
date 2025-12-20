@@ -1,7 +1,7 @@
 ---
 title: "Perceived Economic Prospects during the Early Stage of COVID-19 Breakout"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2023-perceived-economic-prospects
 date: 2023-01-02
 venue: 'Contemporary Economic Policy'

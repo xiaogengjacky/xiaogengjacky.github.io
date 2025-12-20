@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Fertility Relaxation on the Gender Wage Gap"
 collection: publications
-category: economics-business
+category: applied-microeconomics
 permalink: /publication/2024-fertility-relaxation
 date: 2024-01-01
 venue: 'Journal of Human Resources'

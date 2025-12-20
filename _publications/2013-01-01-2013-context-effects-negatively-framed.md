@@ -1,7 +1,7 @@
 ---
 title: "Context Effects in a Negatively Framed Social Dilemma Experiment"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2013-context-effects-negatively-framed
 date: 2013-01-01
 venue: 'Environmental and Resource Economics'

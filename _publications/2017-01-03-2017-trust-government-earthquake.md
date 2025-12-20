@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Trust in Government on Earthquake Survivors' Risk Perception and Preparedness in China"
 collection: publications
-category: interdisciplinary
+category: environmental-energy-econ
 permalink: /publication/2017-trust-government-earthquake
 date: 2017-01-03
 venue: 'Natural Hazards'

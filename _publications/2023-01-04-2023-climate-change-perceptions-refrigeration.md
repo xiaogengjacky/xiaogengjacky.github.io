@@ -1,7 +1,7 @@
 ---
 title: "Rural residents' climate change perceptions, personal experiences, and purchase intention-behavior gap in energy-saving refrigeration appliances in Southwest China"
 collection: publications
-category: interdisciplinary
+category: environmental-energy-econ
 permalink: /publication/2023-climate-change-perceptions-refrigeration
 date: 2023-01-04
 venue: 'Environmental Impact Assessment Review'

@@ -1,7 +1,7 @@
 ---
 title: "The impact of energy poverty on subjective well-being: evidence from China"
 collection: publications
-category: interdisciplinary
+category: environmental-energy-econ
 permalink: /publication/2025-energy-poverty-well-being
 date: 2025-01-01
 venue: 'Humanities and Social Sciences Communications'

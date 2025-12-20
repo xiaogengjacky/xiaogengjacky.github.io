@@ -1,7 +1,7 @@
 ---
 title: "Does a Detailed Model of the Electricity Grid Matter? Estimating the Impacts of the Regional Greenhouse Gas Initiative"
 collection: publications
-category: economics-business
+category: Environmental and Energy Economics
 permalink: /publication/2014-detailed-model-electricity-grid
 date: 2014-01-01
 venue: 'Resource and Energy Economics'

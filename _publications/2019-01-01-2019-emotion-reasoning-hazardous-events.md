@@ -1,7 +1,7 @@
 ---
 title: "The Roles of Emotion and Reasoning in Coping with Hazardous Events"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2019-emotion-reasoning-hazardous-events
 date: 2019-01-01
 venue: 'Journal of Economic Behavior and Organization'

@@ -1,7 +1,7 @@
 ---
 title: "The Sound of Cooperation: Musical Influences on Mood and Behavior"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2017-sound-of-cooperation
 date: 2017-01-01
 venue: 'Journal of Organizational Behavior'

@@ -1,7 +1,7 @@
 ---
 title: "University Licensing of Patents for Varietal Innovations in Agriculture"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2016-university-licensing-patents
 date: 2016-01-02
 venue: 'Agricultural Economics'

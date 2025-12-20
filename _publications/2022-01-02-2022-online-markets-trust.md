@@ -1,7 +1,7 @@
 ---
 title: "Online Markets and Trust"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2022-online-markets-trust
 date: 2022-01-02
 venue: 'Journal of Economic Behavior and Organization'

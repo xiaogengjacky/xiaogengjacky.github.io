@@ -1,7 +1,7 @@
 ---
 title: "Negotiating Housing Deal on a Polluted Day: Consequences and Possible Explanations"
 collection: publications
-category: economics-business
+category: behavioral-experimental-econ
 permalink: /publication/2019-negotiating-housing-deal-polluted-day
 date: 2019-01-03
 venue: 'Journal of Environmental Economics and Management'

@@ -1,7 +1,7 @@
 ---
 title: "Travel Costs and Cross-city Investments: Evidence from China's High-Speed Rail"
 collection: publications
-category: economics-business
+category: applied-microeconomics
 permalink: /publication/2023-travel-costs-cross-city-investments
 date: 2023-01-03
 venue: 'Review of Finance'

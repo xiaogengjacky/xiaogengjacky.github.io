@@ -1,7 +1,7 @@
 ---
 title: "A Global Analysis of the Relationship between Urbanization and Fatalities in Earthquake Prone Areas"
 collection: publications
-category: interdisciplinary
+category: environmental-energy-econ
 permalink: /publication/2021-urbanization-fatalities-earthquake
 date: 2021-01-01
 venue: 'International Journal of Disaster Risk Science'
