@@ -11,8 +11,6 @@ author_profile: true
 
 {% endif %}
 
-## Publications (Peer Reviewed)
-
 {% if site.publication_category %}
   {% for publication_group in site.publication_category %}
     {% assign category_key = publication_group[0] %}
