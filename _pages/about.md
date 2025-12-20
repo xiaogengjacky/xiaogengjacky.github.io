@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-I am an associate professor of Economics in [Lingnan College](https://lingnan.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), China. My research focuses on behavioral and experimental economics with direct implications for public policy. I study how individuals make decisions -- purchasing and selling, paying taxes, donating, responding to nudges -- and how behavioral factors such as loss aversion, projection bias, salience, and social preferences shape those choices. Recently I have been digging into belief formation and the role of behavioral factors in how people update their expectations.
+I am an associate professor of Economics in [Lingnan College (岭南学院)](https://lingnan.sysu.edu.cn/) at [Sun Yat-sen University (中山大学)](https://www.sysu.edu.cn/) (SYSU), China. My research focuses on behavioral and experimental economics with direct implications for public policy. I study how individuals make decisions -- purchasing and selling, paying taxes, donating, responding to nudges -- and how behavioral factors such as loss aversion, projection bias, salience, and social preferences shape those choices. Recently I have been digging into belief formation and the role of behavioral factors in how people update their expectations.
 
 Please find my [CV](https://www.dropbox.com/scl/fi/5iat2bc67irowknfu4tlk/juboyan_cv_2024mkt.pdf?rlkey=tg577wsi7zuzgrue3lxnld9jt&dl=0) or email me for more information. If you are interested in doing research in the mentioned fields, please feel free to reach out to me.
 
