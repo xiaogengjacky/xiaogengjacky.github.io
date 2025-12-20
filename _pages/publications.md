@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications (Peer Reviewed)
 
-Please see the "Recent Works" section on the home page for ongoing projects and working papers.
+
 
 ### Economics & Business
 
