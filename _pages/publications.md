@@ -13,37 +13,48 @@ author_profile: true
 
 ## Publications (Peer Reviewed)
 
-
-
-### Economics & Business
-
-<ol>
-  <li><strong><a href="https://doi.org/10.3368/jhr.0122-12126R2" target="_blank">The Impact of Fertility Relaxation on the Gender Wage Gap</a></strong>. 2024. with Sumit Agarwal, Keyang Li, Yu Qin, and Jing Wu. <em>Journal of Human Resources</em>. Available online.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166046223000881" target="_blank">Steering in the Housing Market: Incentive Induced by the Tax Scheme</a></strong>. 2023. with Keyang Li, Jing Wu, and Jianwei Xing. <em>Regional Science and Urban Economics</em>. Available online.</li>
-  <li><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12616" target="_blank">Perceived Economic Prospects during the Early Stage of COVID-19 Breakout</a></strong>. 2023. with Keyang Li, Yu Qin, and Jing Wu. <em>Contemporary Economic Policy</em>. Available online.</li>
-  <li><strong><a href="https://academic.oup.com/rof/article/27/3/1119/6659540" target="_blank">Travel Costs and Cross-city Investments: Evidence from China's High-Speed Rail</a></strong>. 2023. with Yatang Lin, Yu Qin, Johan Sulaeman, and Jialiang Zhang. <em>Review of Finance</em>, 27(3): 1119-1154.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1049007822000914#!" target="_blank">Genetic Distance and Intra-national Variation in Preferences and Behaviors</a></strong>. 2022. with Yu Qin, Jianqing Ruan, and Ling Wang. <em>Journal of Asian Economics</em>, 83.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268122002335" target="_blank">Online Markets and Trust</a></strong>. 2022. with Wenbo Zou and Jinjie Wang. <em>Journal of Economic Behavior and Organization</em>, 201: 395-412.</li>
-  <li><strong><a href="https://doi.org/10.1016/j.jpubeco.2020.104222" target="_blank">Tax Evasion, Capital Gains Taxes, and the Housing Market</a></strong>. 2020. with Sumit Agarwal, Keyang Li, Yu Qin, and Jing Wu. <em>Journal of Public Economics</em>, 188: 104222.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119301763" target="_blank">The Roles of Emotion and Reasoning in Coping with Hazardous Events</a></strong>. 2019. with Kevin M. Kniffin, Howard Kunreuther, and William Schulze. <em>Journal of Economic Behavior and Organization</em>, 180: 778-796.</li>
-  <li><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12374" target="_blank">Appeals to Social Norms and Taxpayer Compliance</a></strong>. 2019. with James Alm, William Schulze, and Carrie von Bose. <em>Southern Economic Journal</em>, 86(2): 638-666.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069618305151" target="_blank">Negotiating Housing Deal on a Polluted Day: Consequences and Possible Explanations</a></strong>. 2019. with Yu Qin and Jing Wu. <em>Journal of Environmental Economics and Management</em>, 94: 161-187.</li>
-  <li><strong><a href="https://doi.org/10.1002/job.2128" target="_blank">The Sound of Cooperation: Musical Influences on Mood and Behavior</a></strong>. 2017. with Kevin Kniffin, William Schulze, and Brian Wansink. <em>Journal of Organizational Behavior</em>, 38(3): 372-390.</li>
-  <li><strong><a href="http://www.sciencedirect.com/science/article/pii/S2214804316300222" target="_blank">Nudging Charitable Giving: Three Field Experiments</a></strong>. 2017. with Kent Messer, Homa Zarghamee, Jacob Fooks, William Schulze, and Shang Wu. <em>Journal of Behavioral and Experimental Economics</em>, 66: 137-149.</li>
-  <li><strong><a href="http://www.emeraldinsight.com/doi/abs/10.1108/AFR-08-2015-0032?journalCode=afr" target="_blank">Incentive Mechanisms, Loan Decisions and Policy Rationing: A Framed Field Experiment on Rural Credit</a></strong>. 2016. with Ying Cao, Calum G. Turvey, Jiujie Ma, Rong Kong, and Guangwen He. <em>Agricultural Finance Review</em>, 76(3): 326-347.</li>
-  <li><strong><a href="https://doi.org/10.1111/agec.12205" target="_blank">University Licensing of Patents for Varietal Innovations in Agriculture</a></strong>. 2016. with Bradley Rickard and Timothy Richards. <em>Agricultural Economics</em>, 47(1): 3-14.</li>
-  <li><strong><a href="http://www.sciencedirect.com/science/article/pii/S0928765513000900" target="_blank">Does a Detailed Model of the Electricity Grid Matter? Estimating the Impacts of the Regional Greenhouse Gas Initiative</a></strong>. 2014. with Daniel Shawhan, John Taber, Di Shi, Ray Zimmerman, Charles Marquet, Yingying Qi, Biao Mao, Richard Schuler, William Schulze, and Daniel Tylavsky. <em>Resource and Energy Economics</em>, 36(1): 191-207.</li>
-  <li><strong><a href="http://link.springer.com/article/10.1007%2Fs10640-012-9631-x" target="_blank">Context Effects in a Negatively Framed Social Dilemma Experiment</a></strong>. 2013. with Kent Messer and Jordan Suter. <em>Environmental and Resource Economics</em>, 55(3): 387-405.</li>
-</ol>
-
-### Interdisciplinary
+{% if site.publication_category %}
+  {% for publication_group in site.publication_category %}
+    {% assign category_key = publication_group[0] %}
+    {% assign category_meta = publication_group[1] %}
+    {% assign category_publications = site.publications | where: "category", category_key | sort: "date" | reverse %}
+    {% if category_publications.size > 0 %}
+### {{ category_meta.title }}
 
 <ol>
-  <li><strong><a href="https://www.nature.com/articles/s41599-025-04709-y" target="_blank">The impact of energy poverty on subjective well-being: evidence from China</a></strong>. 2025. with Han Yang and Xuefeng Li. <em>Humanities and Social Sciences Communications</em>, 12(1): 1-11.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0195925522002335" target="_blank">Rural residents' climate change perceptions, personal experiences, and purchase intention-behavior gap in energy-saving refrigeration appliances in Southwest China</a></strong>. 2023. with Rui He, Jianjun Jin, Xin Qiu, and Chenyang Zhang. <em>Environmental Impact Assessment Review</em>, Article 106967.</li>
-  <li><strong><a href="https://link.springer.com/article/10.1007/s13753-021-00385-z" target="_blank">A Global Analysis of the Relationship between Urbanization and Fatalities in Earthquake Prone Areas</a></strong>. 2021. with Chunyang He, Qingxu Huang, Xuemei Bai, Derek T. Robinson, Peijun Shi, Yinyin Dou, Bo Zhao, Qiang Zhang, Fangjin Xu, and James Daniell. <em>International Journal of Disaster Risk Science</em>, 12: 805-820.</li>
-  <li><strong><a href="https://www.sciencedirect.com/science/article/pii/S2212041620300486?dgcid=coauthor" target="_blank">Linking Ecosystem Services and Subjective Well-being in Rapidly Urbanizing Watersheds: Insights from a Multilevel Linear Model</a></strong>. 2020. with Qingxu Huang, Dan Yin, Chunyang He, Ziwen Liu, Shiting Meng, Qiang Ren, Rui Zhao, and Luis Inostroza. <em>Ecosystem Services</em>, 43: 101106.</li>
-  <li><strong><a href="https://link.springer.com/article/10.1007/s11069-016-2699-9" target="_blank">The Effects of Trust in Government on Earthquake Survivors' Risk Perception and Preparedness in China</a></strong>. 2017. with Ziqiang Han, Xiaoli Lu, and Elisa I. Hörhager. <em>Natural Hazards</em>, 86: 437-452.</li>
-  <li><strong><a href="https://ieeexplore.ieee.org/document/7427473" target="_blank">The Engineering, Economic and Environmental Electricity Simulation Tool (E4ST): Description and an Illustration of its Capability and Use as a Planning/Policy Analysis Tool</a></strong>. 2016. with Biao Mao, Daniel Shawhan, Ray Zimmerman, Yujia Zhu, William Schulze, Richard Schuler, and Daniel Tylavsky. <em>49th Hawaii International Conference on System Science (HICSS)</em>, 2317-2325. Best Paper Award.</li>
-  <li><strong><a href="https://ieeexplore.ieee.org/document/7070115" target="_blank">A Detailed Power System Planning Model: Estimating the Long-Run Impact of Carbon-Reducing Policies</a></strong>. 2015. with Daniel Shawhan, John Taber, Ray Zimmerman, Charles Marquet, William Schulze, Richard Schuler, Robert Thomas, Daniel Tylavsky, Di Shi, Nan Li, Ward Jewell, Trevor Hardy, and Zhouxing Hu. <em>48th Hawaii International Conference on System Science (HICSS)</em>, 2497-2506.</li>
+  {% for pub in category_publications %}
+    {% assign excerpt_text = pub.excerpt | default: "" | strip %}
+    {% assign authors_sentence = excerpt_text %}
+    {% assign remainder_text = "" %}
+    {% if excerpt_text contains ". " %}
+      {% assign authors_sentence = excerpt_text | split: ". " | first %}
+      {% assign remainder_text = excerpt_text | remove_first: authors_sentence %}
+      {% assign remainder_text = remainder_text | strip %}
+      {% if remainder_text != "" %}
+        {% assign remainder_text = remainder_text | replace_first: ". ", "" %}
+        {% assign remainder_text = remainder_text | strip %}
+      {% endif %}
+    {% elsif excerpt_text == "" %}
+      {% assign authors_sentence = "" %}
+    {% endif %}
+    {% assign remainder_formatted = "" %}
+    {% if remainder_text != "" %}
+      {% assign remainder_first = remainder_text | slice: 0, 1 %}
+      {% assign digits = "0123456789" %}
+      {% if digits contains remainder_first %}
+        {% assign remainder_formatted = ", " | append: remainder_text %}
+      {% else %}
+        {% assign remainder_formatted = ". " | append: remainder_text %}
+      {% endif %}
+    {% endif %}
+    {% assign authors_markup = "" %}
+    {% if authors_sentence != "" %}
+      {% assign authors_markup = authors_sentence | append: "." %}
+    {% endif %}
+  <li><strong>{% if pub.paperurl %}<a href="{{ pub.paperurl }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% elsif pub.link %}<a href="{{ pub.link }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</strong>. {{ pub.date | default: "1900-01-01" | date: "%Y" }}.{% if authors_markup != "" %} {{ authors_markup }}{% endif %}{% if pub.venue %} <em>{{ pub.venue }}</em>{% endif %}{{ remainder_formatted }}</li>
+  {% endfor %}
 </ol>
+
+    {% endif %}
+  {% endfor %}
+{% endif %}
