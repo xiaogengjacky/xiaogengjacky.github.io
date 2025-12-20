@@ -20,7 +20,7 @@ Please find my [CV](https://www.dropbox.com/scl/fi/5iat2bc67irowknfu4tlk/juboyan
 > Economist studying how we *almost* make good decisions.  
 > Teaching with Stata, surviving with coffee.  
 > Occasional LaTeX therapist.
-> 
+
 ## Research and Teaching Fields
 
 - Artificial Intelligence and Decision Making (AI rationality, AI-assisted decision making), Human-AI collaboration and competition (human-AI interactions)
