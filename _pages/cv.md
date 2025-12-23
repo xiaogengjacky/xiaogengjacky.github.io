@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
- * 2026-: Associate Professor
+* 2026-: Associate Professor
   * Lingnan College, Sun Yat-sen University
  
 * 2015-2025: Assistant Professor
