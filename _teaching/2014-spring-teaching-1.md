@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Microeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "NTU"
+date: 2025, 2024, 2023, 2022, 2021
 location: "City, Country"
 ---
 
