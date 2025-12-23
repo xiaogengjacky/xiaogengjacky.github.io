@@ -40,4 +40,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Associate Editor: China Economic Review; Singapore Economic Review
