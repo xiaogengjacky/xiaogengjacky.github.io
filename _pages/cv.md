@@ -31,7 +31,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks section hidden for now -->
+{% comment %}Talks section hidden for now{% endcomment %}
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
