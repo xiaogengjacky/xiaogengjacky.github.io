@@ -30,3 +30,5 @@ author_profile: true
 ## 奖项、科研资助与学术服务
 
 详见个人简历（[CV](https://www.dropbox.com/scl/fi/5iat2bc67irowknfu4tlk/juboyan_cv_2024mkt.pdf?rlkey=tg577wsi7zuzgrue3lxnld9jt&dl=0)）。
+
+本页面由OpenAI Codex翻译自英文页面
