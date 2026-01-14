@@ -30,7 +30,7 @@ I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singa
 ## Recent Works
 
 1. **Aiming High, Falling Short: Experimental Evidence on How Goal Rank Feedback Affects Goal-Setting and Productivity** with Lin Jing and Jing Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6006394), 2026
-2. **Group identity and cooperative behavior: Evidence from a public goods experiment** with Yexin Zhou and Ru Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5799535)
+2. **Group identity and cooperative behavior: Evidence from a public goods experiment** with Yexin Zhou and Ru Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5799535), 2026
 3. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?** with Zebang Deng, Rosemarie Nagel, and Tong Zhang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303), 2025.
 4. **Does Democratic Decision-making Process Enhance Cooperation Among Children and Adolescents? A Large-scale Lab-in-the-field Experiment with Students** with Yexin Zhou and Siwei Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4971880), 2024. (R&R at *Journal of Economic Behavior & Organization*.)
 5. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@mail.sysu.edu.cn to request a copy.
