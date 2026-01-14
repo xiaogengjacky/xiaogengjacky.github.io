@@ -7,6 +7,6 @@ date: 2019-01-01
 venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167268119301763'
 excerpt: >-
-  with Kevin M. Kniffin, Howard Kunreuther, and William Schulze. 180: 778-796.
+  with Kevin Kniffin, Howard Kunreuther, and William Schulze. 180: 778-796.
 ---
 
