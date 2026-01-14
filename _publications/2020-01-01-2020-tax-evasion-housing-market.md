@@ -1,7 +1,7 @@
 ---
 title: "Tax Evasion, Capital Gains Taxes, and the Housing Market"
 collection: publications
-category: applied-microeconomics
+category: behavioral-experimental-econ
 permalink: /publication/2020-tax-evasion-housing-market
 date: 2020-01-01
 venue: 'Journal of Public Economics'
