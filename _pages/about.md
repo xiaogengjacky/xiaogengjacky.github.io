@@ -32,9 +32,8 @@ I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singa
 1. **Aiming High, Falling Short: Experimental Evidence on How Goal Rank Feedback Affects Goal-Setting and Productivity** with Lin Jing and Jing Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6006394), 2026
 2. **Group identity and cooperative behavior: Evidence from a public goods experiment** with Yexin Zhou and Ru Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5799535), 2026
 3. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?** with Zebang Deng, Rosemarie Nagel, and Tong Zhang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303), 2025.
-4. **Does Democratic Decision-making Process Enhance Cooperation Among Children and Adolescents? A Large-scale Lab-in-the-field Experiment with Students** with Yexin Zhou and Siwei Chen. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4971880), 2024. (R&R at *Journal of Economic Behavior & Organization*.)
-5. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@mail.sysu.edu.cn to request a copy.
-6. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy** with Zhi Li and Yun Wang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988), 2022.
-7. **A Subtle Pronoun Shift Reduces Loss Aversion** with Tai-sen He and Yupeng Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320), 2020.
-8. **Making Social Cost Salient: A Natural Field Experiment** with Fuhai Hong and Yohanes E. Riyanto. 2021. Email yanjubo@ntu.edu.sg to request a copy. (R&R at *Journal of Economic Behavior & Organization*.)
-9. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
+4. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@mail.sysu.edu.cn to request a copy.
+5. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy** with Zhi Li and Yun Wang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988), 2022.
+6. **A Subtle Pronoun Shift Reduces Loss Aversion** with Tai-sen He and Yupeng Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320), 2020.
+7. **Making Social Cost Salient: A Natural Field Experiment** with Fuhai Hong and Yohanes E. Riyanto. 2021. Email yanjubo@ntu.edu.sg to request a copy. (R&R at *Journal of Economic Behavior & Organization*.)
+8. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
