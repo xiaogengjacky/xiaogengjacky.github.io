@@ -25,13 +25,17 @@ author_profile: true
     {% assign authors_sentence = excerpt_text %}
     {% assign remainder_text = "" %}
     {% if excerpt_text contains ". " %}
-      {% assign authors_sentence = excerpt_text | split: ". " | first %}
-      {% assign remainder_text = excerpt_text | remove_first: authors_sentence %}
-      {% assign remainder_text = remainder_text | strip %}
-      {% if remainder_text != "" %}
-        {% assign remainder_text = remainder_text | replace_first: ". ", "" %}
-        {% assign remainder_text = remainder_text | strip %}
-      {% endif %}
+      {% comment %}
+        Take the LAST ". "-separated segment as the remainder (vol/page/etc.)
+        and everything before it as the author list, so middle initials like
+        "William D. Schulze" don't break the split.
+      {% endcomment %}
+      {% assign parts = excerpt_text | split: ". " %}
+      {% assign parts_size = parts | size %}
+      {% assign remainder_text = parts | last | strip %}
+      {% assign authors_count = parts_size | minus: 1 %}
+      {% assign author_parts = parts | slice: 0, authors_count %}
+      {% assign authors_sentence = author_parts | join: ". " %}
     {% elsif excerpt_text == "" %}
       {% assign authors_sentence = "" %}
     {% endif %}
