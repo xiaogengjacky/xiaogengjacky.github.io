@@ -22,13 +22,12 @@ author_profile: true
 ## 近期工作论文
 
 1. **Aiming High, Falling Short: Experimental Evidence on How Goal Rank Feedback Affects Goal-Setting and Productivity**（与 Lin Jing、Jing Li 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6006394)，2026。
-2. **Group identity and cooperative behavior: Evidence from a public goods experiment**（与 Yexin Zhou、Ru Chen 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5799535)，2026。
-3. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?**（与 Zebang Deng、Rosemarie Nagel、Tong Zhang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303)，2025。
-4. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments**（与 Yexin Zhou、Xinyu Li 合作），2023。如需全文，请邮件联系。
-5. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy**（与 Zhi Li、Yun Wang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988)，2022。
-6. **A Subtle Pronoun Shift Reduces Loss Aversion**（与 Tai-sen He、Yupeng Li 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320)，2020。
-7. **Making Social Cost Salient: A Natural Field Experiment**（与 Fuhai Hong、Yohanes E. Riyanto 合作），2021。R&R 阶段（*Journal of Economic Behavior & Organization*）；如需全文，请邮件联系。
-8. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
+2. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?**（与 Zebang Deng、Rosemarie Nagel、Tong Zhang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303)，2025。
+3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments**（与 Yexin Zhou、Xinyu Li 合作），2023。如需全文，请邮件联系。
+4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy**（与 Zhi Li、Yun Wang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988)，2022。
+5. **A Subtle Pronoun Shift Reduces Loss Aversion**（与 Tai-sen He、Yupeng Li 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320)，2020。
+6. **Making Social Cost Salient: A Natural Field Experiment**（与 Fuhai Hong、Yohanes E. Riyanto 合作），2021。R&R 阶段（*Journal of Economic Behavior & Organization*）；如需全文，请邮件联系。
+7. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
 
 ## 奖项、科研资助与学术服务
 
