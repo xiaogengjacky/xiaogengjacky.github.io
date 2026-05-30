@@ -34,5 +34,4 @@ I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singa
 3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@mail.sysu.edu.cn to request a copy.
 4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy** with Zhi Li and Yun Wang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988), 2022.
 5. **A Subtle Pronoun Shift Reduces Loss Aversion** with Tai-sen He and Yupeng Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320), 2020.
-6. **Making Social Cost Salient: A Natural Field Experiment** with Fuhai Hong and Yohanes E. Riyanto. 2021. Email yanjubo@ntu.edu.sg to request a copy. (R&R at *Journal of Economic Behavior & Organization*.)
-7. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
+6. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.

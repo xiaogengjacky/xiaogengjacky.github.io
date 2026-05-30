@@ -26,8 +26,7 @@ author_profile: true
 3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments**（与 Yexin Zhou、Xinyu Li 合作），2023。如需全文，请邮件联系。
 4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy**（与 Zhi Li、Yun Wang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988)，2022。
 5. **A Subtle Pronoun Shift Reduces Loss Aversion**（与 Tai-sen He、Yupeng Li 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320)，2020。
-6. **Making Social Cost Salient: A Natural Field Experiment**（与 Fuhai Hong、Yohanes E. Riyanto 合作），2021。R&R 阶段（*Journal of Economic Behavior & Organization*）；如需全文，请邮件联系。
-7. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
+6. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
 
 ## 奖项、科研资助与学术服务
 
