@@ -60,3 +60,9 @@ author_profile: true
     {% endif %}
   {% endfor %}
 {% endif %}
+
+### Publications in Chinese Journals
+
+<ol>
+  <li>韩飞, 鄢贞, <strong>闫巨博</strong>, 周洁红. <a href="https://xwgg.cbpt.cnki.net/portal/journal/portal/client/paper/84809f4d83f51960546e130148f2b60e" target="_blank" rel="noopener">社会规范策略对消费者绿色消费品选择行为影响研究——以外卖绿色包装为例</a>[J]. <em>行为公共管理与政策</em>, 2025(1): 265-307.</li>
+</ol>
