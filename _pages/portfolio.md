@@ -11,7 +11,7 @@ author_profile: true
 
 闫巨博（Jubo Yan）现任中山大学[岭南学院](https://lingnan.sysu.edu.cn/)经济学副教授，主要从事行为经济学与实验经济学研究，并关注其在公共政策中的应用。研究内容涵盖个体在交易、纳税、慈善捐赠及面对“助推”政策时的决策行为，重点考察损失厌恶、投射偏差、显著性效应与社会偏好等行为因素的作用。近期工作进一步延伸至信念形成与预期更新的行为机制。
 
-加入中山大学之前，曾任新加坡南洋理工大学经济学助理教授。详细信息请参见[简历](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0)，或通过邮件联系：yanjubo@mail.sysu.edu.cn。欢迎相关方向的学生与同行交流合作。
+加入中山大学之前，曾任新加坡南洋理工大学经济学助理教授。详细信息请参见[简历](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0){:target="_blank" rel="noopener"}，或通过邮件联系：yanjubo@mail.sysu.edu.cn。欢迎相关方向的学生与同行交流合作。
 
 ## 研究与教学领域
 
@@ -30,6 +30,6 @@ author_profile: true
 
 ## 奖项、科研资助与学术服务
 
-详见个人[简历](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0)。
+详见个人[简历](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0){:target="_blank" rel="noopener"}。
 
 本页面由 Claude（Anthropic）翻译整理自英文页面。
