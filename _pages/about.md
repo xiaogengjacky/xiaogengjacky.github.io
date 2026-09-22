@@ -15,9 +15,9 @@ I am an associate professor of Economics in [Lingnan College (岭南学院)](htt
 
 I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singapore before I joined SYSU. Please find my [CV](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0){:target="_blank" rel="noopener"} or email me for more information. If you are interested in doing research in the mentioned fields, please feel free to reach out to me.
 
-**Prospective PhD and Master’s Students**
+**Prospective PhD and Master’s Students (Please read before writing to me!)**
 
-If you are interested in PhD or Master’s supervision, please review my research interests and recent papers before contacting me. I welcome inquiries from students with a genuine interest in behavioral economics, experimental economics, or applied microeconomics and a clear overlap with my research. In your email, please briefly explain which research questions interest you and how they relate to my work. PhD applicants should be able to articulate their research interests, even if these are still developing. If your interests have no substantive connection to my research, please contact faculty whose expertise better matches your goals. Establishing a good research fit early helps both students and supervisors make productive use of their time.
+If you are interested in PhD or Master’s supervision, please review my research interests and recent papers before contacting me. I welcome inquiries from students with a genuine interest in behavioral economics, experimental economics, or applied microeconomics and at least some overlap with my research. In your email, please briefly explain which research questions interest you and how they relate to my work. PhD applicants should be able to articulate their research interests, even if these are still developing. If your interests have no minimal connection to my research, please contact faculty whose expertise better matches your goals. Establishing a good research fit early helps both students and supervisors make productive use of their time.
 
 > **A Definition by ChatGPT 4o**  
 > 🎢 Rationality? Never Heard of Her  
