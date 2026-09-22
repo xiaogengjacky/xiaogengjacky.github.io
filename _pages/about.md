@@ -27,6 +27,10 @@ I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singa
 - Behavioral Economics (behavioral bias, nudges), Experimental Economics (individual decisions, mechanism design)
 - Environmental Economics (environmental policy, non-market good evaluation, responses to disasters), Public Economics (voluntary giving, tax compliance, behavioral responses to policy)
 
+## Prospective PhD and Master’s Students
+
+If you are interested in PhD or Master’s supervision, please review my research interests and recent papers before contacting me. I welcome inquiries from students with a genuine interest in behavioral economics, experimental economics, or applied microeconomics and a clear overlap with my research. In your email, please briefly explain which research questions interest you and how they relate to my work. PhD applicants should be able to articulate their research interests, even if these are still developing. If your interests have no substantive connection to my research, please contact faculty whose expertise better matches your goals. Establishing a good research fit early helps both students and supervisors make productive use of their time.
+
 ## Recent Works
 
 1. **Aiming High, Falling Short: Experimental Evidence on How Goal Rank Feedback Affects Goal-Setting and Productivity** with Lin Jing and Jing Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6006394), 2026
