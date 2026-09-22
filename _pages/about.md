@@ -15,6 +15,10 @@ I am an associate professor of Economics in [Lingnan College (岭南学院)](htt
 
 I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singapore before I joined SYSU. Please find my [CV](https://www.dropbox.com/scl/fi/gmceqk5aiscr01ivp0g2y/juboyan_cv.pdf?rlkey=nev1x2y0s1eqid6rb5y4x3d7g&dl=0){:target="_blank" rel="noopener"} or email me for more information. If you are interested in doing research in the mentioned fields, please feel free to reach out to me.
 
+**Prospective PhD and Master’s Students**
+
+If you are interested in PhD or Master’s supervision, please review my research interests and recent papers before contacting me. I welcome inquiries from students with a genuine interest in behavioral economics, experimental economics, or applied microeconomics and a clear overlap with my research. In your email, please briefly explain which research questions interest you and how they relate to my work. PhD applicants should be able to articulate their research interests, even if these are still developing. If your interests have no substantive connection to my research, please contact faculty whose expertise better matches your goals. Establishing a good research fit early helps both students and supervisors make productive use of their time.
+
 > **A Definition by ChatGPT 4o**  
 > 🎢 Rationality? Never Heard of Her  
 > Economist studying how we *almost* make good decisions.  
@@ -26,10 +30,6 @@ I was an assistant professor of Ecoomics at Nanyang Technology Univeristy, Singa
 - Artificial Intelligence and Decision Making (AI rationality, AI-assisted decision making), Human-AI collaboration and competition (human-AI interactions)
 - Behavioral Economics (behavioral bias, nudges), Experimental Economics (individual decisions, mechanism design)
 - Environmental Economics (environmental policy, non-market good evaluation, responses to disasters), Public Economics (voluntary giving, tax compliance, behavioral responses to policy)
-
-## Prospective PhD and Master’s Students
-
-If you are interested in PhD or Master’s supervision, please review my research interests and recent papers before contacting me. I welcome inquiries from students with a genuine interest in behavioral economics, experimental economics, or applied microeconomics and a clear overlap with my research. In your email, please briefly explain which research questions interest you and how they relate to my work. PhD applicants should be able to articulate their research interests, even if these are still developing. If your interests have no substantive connection to my research, please contact faculty whose expertise better matches your goals. Establishing a good research fit early helps both students and supervisors make productive use of their time.
 
 ## Recent Works
 
