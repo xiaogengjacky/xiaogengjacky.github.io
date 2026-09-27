@@ -37,5 +37,4 @@ If you are interested in having me serve in an advisory role for your PhD or Mas
 2. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?** with Zebang Deng, Rosemarie Nagel, and Tong Zhang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303), 2025.
 3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments** with Yexin Zhou and Xinyu Li. 2023. Email yanjubo@mail.sysu.edu.cn to request a copy.
 4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy** with Zhi Li and Yun Wang. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988), 2022.
-5. **A Subtle Pronoun Shift Reduces Loss Aversion** with Tai-sen He and Yupeng Li. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320), 2020.
-6. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
+5. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique.** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124), 2020.
