@@ -29,8 +29,7 @@ author_profile: true
 2. **Can LLM Agents Recognize Demographic Heterogeneity in Economic Games?**（与 Zebang Deng、Rosemarie Nagel、Tong Zhang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197303)，2025。
 3. **Negative Framing of Public Goods Contributions with Heterogeneous Endowments**（与 Yexin Zhou、Xinyu Li 合作），2023。如需全文，请邮件联系。
 4. **Alternative Rebate Rules in Enhancing Large-Group Threshold Public Goods Provision: Experimental Investigation Via Belief and Conditional Strategy**（与 Zhi Li、Yun Wang 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4187988)，2022。
-5. **A Subtle Pronoun Shift Reduces Loss Aversion**（与 Tai-sen He、Yupeng Li 合作）。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945320)，2020。
-6. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
+5. **Risk Aversion in the Small: Loss Aversion, Probability Weighting, and the Rabin's Critique**。[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2858124)，2020。
 
 ## 奖项、科研资助与学术服务
 
